@@ -1,0 +1,6 @@
+classes= 1
+train  = /content/darknet/ticdata_colab/new_train.txt
+valid  = /content/darknet/ticdata_colab/new_val.txt
+names  = /content/darknet/ticdata_colab/ticdata.names
+backup = backup
+
